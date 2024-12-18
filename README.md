@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vidura-senevirathne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidura-senevirathne" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vidura-senevirathne-624ab0260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidura-senevirathne-624ab0260" height="30" width="40" /></a>
 <a href="https://medium.com/@vidurasenevirathne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vidurasenevirathne" height="30" width="40" /></a>
 </p>
 
